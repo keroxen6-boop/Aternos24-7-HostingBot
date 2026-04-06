@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "TerraCraft-1ifG.aternos.me:61170",
+    "port":  61170,
     "version": "",
     "try-creative": false
   },
